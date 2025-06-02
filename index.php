@@ -2,24 +2,24 @@
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
     <head>
         <meta charset="utf-8" />
-        <title>KOITOTO x Situs Slot | Login & Daftar Disini Menangkan Hadiah Hingga Jutaan Rupiah</title>
-        <meta name="description" content="KOITOTO x Situs Slot adalah platform game slot online terpercaya yang menyuguhkan pengalaman bermain berkualitas tinggi dan kesempatan menang hadiah hingga jutaan rupiah." />
+        <title>SLOT88 || Link Resmi Situs Slot Online Paling Banyak Peminatnya di Indonesia</title>
+        <meta name="description" content="SLOT88 adalah situs slot online terdepan yang telah menjadi pilihan utama jutaan pemain di Indonesia dan menyadikan ribuan pilihan game slot online dengan RTP tertinggi." />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <meta name="robots" content="index, follow" />
         <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
         <meta name="og:url" content="https://isaogp.com.br/" />
-        <meta name="og:title" content="KOITOTO x Situs Slot | Login & Daftar Disini Menangkan Hadiah Hingga Jutaan Rupiah" />
+        <meta name="og:title" content="SLOT88 || Link Resmi Situs Slot Online Paling Banyak Peminatnya di Indonesia" />
         <meta name="og:type" content="product" />
-        <meta name="og:description" content="KOITOTO x Situs Slot adalah platform game slot online terpercaya yang menyuguhkan pengalaman bermain berkualitas tinggi dan kesempatan menang hadiah hingga jutaan rupiah." />
+        <meta name="og:description" content="SLOT88 adalah situs slot online terdepan yang telah menjadi pilihan utama jutaan pemain di Indonesia dan menyadikan ribuan pilihan game slot online dengan RTP tertinggi." />
         <meta name="google-site-verification" content="Jk6dQg1tbfbD7WyyQMoIkikR5W_wCI2UMAWA4gHpn-o" />
         <meta name="google-site-verification" content="Ox7aKjlkpYudCruMri3T7qkNmTebwnfJBlC_A7PiqxY" />
-        <meta name="og:image" content="https://goodimg.io/images/2025/05/09/situslot_600x600.jpg" />
+        <meta name="og:image" content="https://goodimg.io/images/2025/04/20/slot-dana4.jpg" />
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" />
         <link rel="shortcut icon" href="https://goodimg.io/images/2025/05/02/favicon-koi-2025.png" />
         <link rel="canonical" href="https://isaogp.com.br/" />
-        <link rel="amphtml" href="https://koi.avatar-amp.info/mahajar.is.back/" />
+        <link rel="amphtml" href="https://koi.avatar-amp.info/fajar-stecu/" />
         <!-- start preload -->
-        <link rel="preload" href="https://goodimg.io/images/2025/05/09/situslot_600x600.jpg" as="image" />
+        <link rel="preload" href="https://goodimg.io/images/2025/04/20/slot-dana4.jpg" as="image" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
         <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -125,7 +125,7 @@
             var timings = { start: Date.now() };
             var dataLayer = window.dataLayer || [];
             var pdpTrackingData =
-                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://goodimg.io/images/2025/05/09/situslot_600x600.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"KOITOTO x Situs Slot | Login & Daftar Disini Menangkan Hadiah Hingga Jutaan Rupiah","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
+                '{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://goodimg.io/images/2025/04/20/slot-dana4.jpg","v_voya":1,"brand_name":"Samsung","brand_id":"842","pdt_sku":3642482616,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":6108584955,"pdt_name":"SLOT88 || Link Resmi Situs Slot Online Paling Banyak Peminatnya di Indonesia","page":{"regCategoryId":"300300002584","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=3642482616_ID-6108584955&_p_prod=3642482616&_p_sku=6108584955&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}';
             try {
                 pdpTrackingData = JSON.parse(pdpTrackingData);
                 pdpTrackingData.v_voya = false;
@@ -868,18 +868,18 @@
             {
                 "@type": "Product",
                 "@context": "https://schema.org",
-                "name": "KOITOTO x Situs Slot | Login & Daftar Disini Menangkan Hadiah Hingga Jutaan Rupiah",
+                "name": "SLOT88 || Link Resmi Situs Slot Online Paling Banyak Peminatnya di Indonesia",
                 "image": "//id-test-11.slatic.net/p/c08a6637647b6984097e3fcf63c97c3c.jpg",
                 "category": "Televisi & Video",
                 "brand": { "@type": "Brand", "name": "Samsung", "url": "https://isaogp.com.br/" },
                 "sku": "3642482616_ID-6108584955",
                 "mpn": 3642482616,
-                "description": "KOITOTO x Situs Slot adalah platform game slot online terpercaya yang menyuguhkan pengalaman bermain berkualitas tinggi dan kesempatan menang hadiah hingga jutaan rupiah.",
+                "description": "SLOT88 adalah situs slot online terdepan yang telah menjadi pilihan utama jutaan pemain di Indonesia dan menyadikan ribuan pilihan game slot online dengan RTP tertinggi.",
                 "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
                 "offers": {
                     "@type": "Offer",
                     "url": "https://www.lazada.co.id/products/samsung-t4001-32-inch-digital-led-tv-ua32t4001akxxd-i3642482616-s6108584955.html",
-                    "seller": { "@type": "Organization", "name": "KOITOTO" },
+                    "seller": { "@type": "Organization", "name": "SLOT88" },
                     "priceCurrency": "IDR",
                     "price": 25.000,
                     "availability": "https://schema.org/InStock",
@@ -897,7 +897,7 @@
                         "position": 1,
                         "item": {
                             "@id": "https://isaogp.com.br/",
-                            "name": "KOITOTO"
+                            "name": "SLOT88"
                         }
                     },
                     {
@@ -929,7 +929,7 @@
                         "position": 5,
                         "item": {
                             "@id": "https://isaogp.com.br/",
-                            "name": "KOITOTO x Situs Slot | Login & Daftar Disini Menangkan Hadiah Hingga Jutaan Rupiah"
+                            "name": "SLOT88 || Link Resmi Situs Slot Online Paling Banyak Peminatnya di Indonesia"
                         }
                     }
                 ]
@@ -1040,7 +1040,7 @@
                                         <a class="highlight" target="_blank" href="https://yida.alibaba-inc.com/alibaba/web/APP_NZEYXSPGPBMKO7Z1LCE5/inst/homepage/?spm=a2o42.home.header.d0.654346b5QeptXc#/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d0">INTERNAL FEEDBACK</a>
                                     </div>
                                     <div class="top-links-item" id="topActionFeedback">
-                                        <a target="_blank" href="https://isaogp.com.br/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">KOITOTO</a>
+                                        <a target="_blank" href="https://isaogp.com.br/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=dfeedback">SLOT88</a>
                                     </div>
                                     <div class="top-links-item orange" id="topActionDownload" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d1">
                                         <span><a href="https://isaogp.com.br/">Situs Slot</a></span>
@@ -1063,13 +1063,13 @@
                                                             <div class="promotion-text">
                                                                 <a href="https://pages.lazada.co.id/wow/i/id/IDCampaign/Download-App?hybrid=1">
                                                                     <div class="get-the-app-download-text">
-                                                                        <p>KOITOTO:</p>
+                                                                        <p>SLOT88:</p>
                                                                         <ul>
                                                                             <li>Bandar Slot Online</li>
                                                                             <li>Situs Slot Online</li>
                                                                             <li>Slot Online</li>
                                                                             <li>Situs Slot</li>
-                                                                            <li>KOITOTO</li>
+                                                                            <li>SLOT88</li>
                                                                         </ul>
                                                                     </div>
                                                                 </a>
@@ -1171,10 +1171,10 @@
                                         </div>
                                     </div>
                                     <div class="top-links-item" id="anonLogin">
-                                        <a href="https://koi.avatar-amp.info/mahajar.is.back/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
+                                        <a href="https://koi.avatar-amp.info/fajar-stecu/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d5" style="color: white;">LOGIN</a>
                                     </div>
                                     <div class="top-links-item grey" id="anonSignup">
-                                        <a href="https://koi.avatar-amp.info/mahajar.is.back/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
+                                        <a href="https://koi.avatar-amp.info/fajar-stecu/" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d6" style="color: #001174;">DAFTAR</a>
                                     </div>
                                     <div class="top-links-item top-links-item-hidden" id="topActionUserAccont" data-spm-click="gostr=/lzdpub.header.tbar;locaid=d7">
                                         <span id="myAccountTrigger" class="grey"></span>
@@ -1211,13 +1211,13 @@
                                         <a href="https://isaogp.com.br/" data-spm="dhome">
                                             <img
                                                 src="https://imgstore.io/images/2025/05/15/gift-2.gif"
-                                                alt="KOITOTO"
+                                                alt="SLOT88"
                                                 style="object-fit: contain; width:90%; height: auto;"
                                             />
                                         </a>
                                     </div>
                                     <div class="lzd-nav-search" data-spm="search">
-                                        <input type="text" class="input-search" placeholder="CARI DI KOITOTO">
+                                        <input type="text" class="input-search" placeholder="CARI DI SLOT88">
                                         <div class="container-icon">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" fill="none">
                                                 <path d="M15.4466 15.4466C18.1766 12.7166 18.1766 8.28331 15.4466 5.54164C12.7166 2.81164 8.28331 2.81164 5.54164 5.54164C2.81164 8.27164 2.81164 12.705 5.54164 15.4466C8.27164 18.1766 12.705 18.1766 15.4466 15.4466Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
@@ -2322,7 +2322,7 @@
                                         </div>
                                     </div>
                                     <div class="lzd-nav-cart">
-                                        <a href="https://isaogp.com.br/" data-spm="dcart" alt="KOITOTO" title="KOITOTO">
+                                        <a href="https://isaogp.com.br/" data-spm="dcart" alt="SLOT88" title="SLOT88">
                                             <span class="cart-icon"></span> <span class="cart-num" id="topActionCartNumber"></span>
                                         </a>
                                     </div>
@@ -3372,13 +3372,13 @@
                                         <a class="lzd-menu-labels-item" href="https://isaogp.com.br/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
                                                 <img
-                                                    alt="KOITOTO"
+                                                    alt="SLOT88"
                                                     class="lzd-site-nav-menu-iconfont-img"
                                                     src="https://goodimg.io/images/2025/05/12/starredd.gif"
                                                 />
                                             </span>
                                             <!--<i class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon lazada-ic-channel-LazMall">&#xe629;</i>-->
-                                            <span class="lzd-menu-labels-item-text">KOITOTO</span>
+                                            <span class="lzd-menu-labels-item-text">SLOT88</span>
                                         </a>
                                         <a class="lzd-menu-labels-item" href="https://isaogp.com.br/">
                                             <span class="lzd-site-nav-menu-iconfont lzd-menu-labels-item-icon">
@@ -3666,13 +3666,13 @@
                                     <div class="gallery-preview-panel__content">
                                         <img
                                             class="pdp-mod-common-image gallery-preview-panel__image"
-                                            alt="KOITOTO"
-                                            src="https://goodimg.io/images/2025/05/09/situslot_600x600.jpg"
+                                            alt="SLOT88"
+                                            src="https://goodimg.io/images/2025/04/20/slot-dana4.jpg"
                                         />
                                     </div>
                                     <p style="text-align: center;">
-                                        <a href="https://koi.avatar-amp.info/mahajar.is.back/">
-                                            <img src="https://goodimg.io/images/2025/05/17/daftar-disini.gif" alt="KOITOTO" style="width: 320px; height: 105px;">
+                                        <a href="https://koi.avatar-amp.info/fajar-stecu/">
+                                            <img src="https://goodimg.io/images/2025/05/17/daftar-disini.gif" alt="SLOT88" style="width: 320px; height: 105px;">
                                         </a>
                                     </p>
                                 </div>
@@ -3689,7 +3689,7 @@
                                         <div id="module_redmart_top_promo_banner" class="pdp-block module"></div>
                                         <div id="module_product_title_1" class="pdp-block module">
                                             <div class="pdp-product-title">
-                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">KOITOTO x Situs Slot | Login & Daftar Disini Menangkan Hadiah Hingga Jutaan Rupiah</h1></div>
+                                                <div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">SLOT88 || Link Resmi Situs Slot Online Paling Banyak Peminatnya di Indonesia</h1></div>
                                             </div>
                                         </div>
                                         <div id="module_pre-order-tag" class="pdp-block module"></div>
@@ -3726,15 +3726,15 @@
                                                         color : Red;
                                                     }
                                                 </style>
-                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="https://isaogp.com.br/">KOITOTO</a>
+                                                <a class="pdp-link pdp-link_size_s pdp-link_theme_red pdp-product-brand__brand-link" target="_self" href="https://isaogp.com.br/">SLOT88</a>
                                                 <!-- <div class="pdp-product-brand__divider"></div> -->
                                                 <div class="pdp-cart-concern" bis_skin_checked="1">
-                                                    <a href="https://koi.avatar-amp.info/mahajar.is.back/">
+                                                    <a href="https://koi.avatar-amp.info/fajar-stecu/">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j">
                                                             <span class="pdp-button-text">LOGIN</span>
                                                         </button>
                                                     </a>
-                                                    <a href="https://koi.avatar-amp.info/mahajar.is.back/" target="_blank">
+                                                    <a href="https://koi.avatar-amp.info/fajar-stecu/" target="_blank">
                                                         <button class="add-to-cart-buy-now-btn pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl">
                                                             <span class="pdp-button-text"><span class="">DAFTAR</span></span>
                                                         </button>
@@ -3757,7 +3757,7 @@
                                                 <div class="seller-container" data-spm="seller">
                                                     <div class="seller-name">
                                                         <div class="seller-name__wrapper">
-                                                            <div class="seller-name__title">Dijual oleh <a href="https://isaogp.com.br/" style="color: Red">KOITOTO</a></div>
+                                                            <div class="seller-name__title">Dijual oleh <a href="https://isaogp.com.br/" style="color: Red">SLOT88</a></div>
                                                             <div class="seller-name__detail" data-spm="seller">
                                                             </div>
                                                         </div>
@@ -3772,12 +3772,12 @@
                                 <div id="module_product_price_1" class="pdp-block module">
                                     <div class="pdp-mod-product-price">
                                         <div class="site-description">
-<h1 class="w-80">KOITOTO x Situs Slot | Login & Daftar Disini Menangkan Hadiah Hingga Jutaan Rupiah</h1>
+<h1 class="w-80">SLOT88 || Link Resmi Situs Slot Online Paling Banyak Peminatnya di Indonesia</h1>
 
-<p><a style="color: Red;" href="https://isaogp.com.br/">KOITOTO</a> x Situs Slot adalah platform game slot online terpercaya yang menyuguhkan pengalaman bermain berkualitas tinggi, sistem fair play, dan kesempatan menang hadiah hingga jutaan rupiah setiap harinya. Sebagai bagian dari KOITOTO — nama besar di dunia slot 4D resmi Indonesia — fitur slot yang ditawarkan tak kalah menarik dengan game provider internasional ternama.</p>
+<p><a style="color: Red;" href="https://isaogp.com.br/">SLOT88</a> merupakan platform judi slot online terpercaya dan resmi yang telah menjadi pilihan utama para pecinta permainan slot di Indonesia. Dengan ribuan pengguna aktif setiap hari, SLOT88 dikenal luas sebagai situs slot gacor, yaitu situs yang menyediakan permainan slot dengan tingkat kemenangan tinggi, tampilan modern, dan sistem yang aman serta cepat.</p>
 
-                                            <a href="https://koi.avatar-amp.info/mahajar.is.back/" target="_blank" rel="noreferrer noopener">
-                                            <div style="text-align: center;"><img src="https://goodimg.io/images/2025/05/22/gifkoi.gif" alt="KOITOTO" style="width: 100%;"></div></a>
+                                            <a href="https://koi.avatar-amp.info/fajar-stecu/" target="_blank" rel="noreferrer noopener">
+                                            <div style="text-align: center;"><img src="https://goodimg.io/images/2025/05/22/gifkoi.gif" alt="SLOT88" style="width: 100%;"></div></a>
                                         <div class="pdp-product-price" bis_skin_checked="1">
                                             <span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">Rp.10.000</span>
                                             <div class="origin-block" bis_skin_checked="1">
@@ -4560,30 +4560,30 @@ window.onload = function() {
             }
         </style>
 <div class="fixed-footer">
-    <a href="https://koi.avatar-amp.info/mahajar.is.back/" rel="nofollow noopener" target="_blank">
+    <a href="https://mikale.me/promo-koi?spm=SLOT88.pdp_revamp.0.0.61d67dcbHnMAQv" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
-            src="https://mikale.me/promo-koi?spm=KOITOTO.pdp_revamp.0.0.61d67dcbHnMAQv" alt="PROMO KOITOTO">
+            src="https://imgstore.io/images/2025/04/19/promo-koitoto.png" alt="PROMO SLOT88">
         Promosi
     </a>
     <a href="https://techpraveen.com" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
-            src="https://imgstore.io/images/2025/04/19/login-koitoto.png" alt="LOGIN KOITOTO">
+            src="https://imgstore.io/images/2025/04/19/login-koitoto.png" alt="LOGIN SLOT88">
         Login
     </a>
     <a href="https://mikale.me/seobtc" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px"
-            src="https://imgstore.io/images/2025/04/19/daftar-koitoto.png" alt="DAFTAR KOITOTO">
+            src="https://imgstore.io/images/2025/04/19/daftar-koitoto.png" alt="DAFTAR SLOT88">
         Daftar
     </a>
     <a href="https://t.ly/koitotolink" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px"
-            src="https://imgstore.io/images/2025/04/19/link-koitoto.png" alt="LINK KOITOTO">
+            src="https://imgstore.io/images/2025/04/19/link-koitoto.png" alt="LINK SLOT88">
         Link
     </a>
     <a href="https://direct.lc.chat/13532091" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
-            src="https://imgstore.io/images/2025/04/19/livechat-koitoto.png" alt="LIVECHAT KOITOTO">
+            src="https://imgstore.io/images/2025/04/19/livechat-koitoto.png" alt="LIVECHAT SLOT88">
         Live Chat
     </a>
     <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'92f3485d1a7a7c7f',t:'MTc0NDQ2Njc2OS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
